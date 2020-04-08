@@ -3,7 +3,7 @@
 ---
 ### Instrucciones de instalacion:
 
-Descargar el ultimo [release](releases) en formato .zip y descomprimirlo dentro de la carpeta "cstrike" (Generalmente ubicada en "C:\\Archivos de Programa (x86)\\Valve\\cstrike").
+Descargar el ultimo [release](https://github.com/trotskylenin/mi_casa2/releases) en formato .zip y descomprimirlo dentro de la carpeta "cstrike" (Generalmente ubicada en "C:\\Archivos de Programa (x86)\\Valve\\cstrike").
 
 ### Fuente (source):
 En este repositorio podran encontrar los archivos necesarios para editar el mapa dentro de la carpeta [src](src).  
