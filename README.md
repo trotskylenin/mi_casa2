@@ -12,7 +12,7 @@ Para abrir estos archivos necesitan primero los siguientes programas:
 #### Prerequisitos:  
 - **[Valve Hammer Editor 3.4 (Goldsource)](https://gamebanana.com/tools/5026)** (Editor de mapas .RMF)
 - **[Wally](https://gamebanana.com/tools/4774)** (Editor de texturas .WAD)  
-- **[Vluacn's ZHLT](https://forums.svencoop.com/showthread.php/40983-Downloads-amp-Changelogs)** (Compilador avanzado de mapas)  
+- **[Vluzacn's ZHLT](https://forums.svencoop.com/showthread.php/40983-Downloads-amp-Changelogs)** (Compilador avanzado de mapas)  
 
 ### Capturas de pantalla:
 ![snapshot_1](snapshots/mi_casa2_1.jpg)  
